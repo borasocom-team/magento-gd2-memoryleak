@@ -1,0 +1,1 @@
+**See**: [ImportExport problem with new destructor of Varien_Image_Adapter_Gd2 in 1.9.2.0](https://magento.stackexchange.com/questions/79672/importexport-problem-with-new-destructor-of-varien-image-adapter-gd2-in-1-9-2-0).
